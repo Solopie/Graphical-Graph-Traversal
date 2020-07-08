@@ -7,5 +7,6 @@
     },
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
-    ]
+    ],
+    "python.pythonPath": "C:\\Users\\jesse\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe"
 }
